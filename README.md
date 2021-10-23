@@ -20,14 +20,14 @@ A cute theme for Windows XP, based on legendary theme Luna
 ![ss6](https://cdn.discordapp.com/attachments/900933598763425822/901053498974691358/unknown.png)
 > English demo
 
-## Compiling your own source code
+## Compiling the source code
 (coming soon)
 
 ## How to install
-Look ahead to Releases
+Look ahead to [Releases](https://github.com/SamCool939/KellyChan-theme/releases)
 
 ## I want to make my own theme, how do you can do it?
-(ccoming soon)
+[Look at this guide if you want to make for yourself](https://cdn.discordapp.com/attachments/758624777312141323/892313634984837120/1601229699581.png)
 
 ## Requirements
 - Windows XP (build 2600)
@@ -35,3 +35,4 @@ Look ahead to Releases
 ## Known issues
 - Alignment of the 'Start' text on Start button isn't centered
 - Many areas still remain same as original Luna
+- This theme maybe can't been installed in Longhorn (for now, in 3683, but I will testing later in the higher Longhorn builds)
