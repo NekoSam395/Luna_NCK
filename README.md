@@ -20,6 +20,9 @@ A cute theme for Windows XP, based on legendary theme Luna
 ![ss6](https://cdn.discordapp.com/attachments/900933598763425822/901053498974691358/unknown.png)
 > English demo
 
+![ss7](https://cdn.discordapp.com/attachments/811803235617996803/901420017529274398/unknown.png)
+> Works perfectly even in the 276 x 69 resolution LOL 😹
+
 ## Compiling the source code
 (coming soon)
 
