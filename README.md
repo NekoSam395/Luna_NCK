@@ -1,4 +1,6 @@
-# KellyChan-theme
+# **THIS PROJECT IS ARCHIVED UNTIL UNANNOUNCED TIME**
+
+# Luna NCK
 A cute theme for Windows XP, based on legendary theme Luna
 
 ## Screenshoots
